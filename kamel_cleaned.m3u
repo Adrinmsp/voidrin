@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FX TV 2" tvg-logo="" group-title="Iranian",FX TV 2
-https://toonixhls.wns.live/hls/stream.m3u8
+https://toonixhls.wns.live/hls/stream.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ICC TV" tvg-logo="" group-title="Iranian",ICC TV
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khatereh TV" tvg-logo="" group-title="Iranian",Khatereh TV
